@@ -61,7 +61,7 @@ function verificar() {
                 // idoso
                 img.setAttribute('src', 'img/idose.png')
             } else {
-                img.setAttribute('src', 'img/purpurina.png')
+                img.setAttribute('src', 'img/caveira.png')
             }
         }
         res.style.textAlign = 'center'  // centraliza o texto abaixo.
